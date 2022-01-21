@@ -1,0 +1,50 @@
+.div1{
+    float: left;
+    position: relative;
+    width: 1131px;
+    height: 790px;
+    background-color: rgb(211, 243, 232);
+    border: solid 3px black;
+    background-image: url('./0.jpg');
+}
+
+.div2{
+    font-size: 5em;
+    color: brown;
+    text-shadow:5px 5px #FF0000;
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.div3{
+    float: left;
+    position: relative;
+    font-size: 2em;
+    width: 650px;
+    margin: 90px 0 0 154px;
+}
+
+.div4{
+    height: 250px;
+    width: 480px;
+}
+
+.div5{
+    position: relative;
+    float: left;
+    margin: 20px 0 0 350px;
+}
+
+.anniu{
+    float: left;
+    position: relative;
+    width: 80px;
+    height: 40px;
+    font-size: 1em;
+    color: rgb(0, 0, 0);
+    border: solid 1px rgb(5, 5, 5);
+}
+
+.clearfix{
+    clear: both;
+}

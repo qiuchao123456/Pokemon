@@ -1,0 +1,51 @@
+.divbox1{
+    width: 1200px;
+    color: green;
+    font-size: 25px;
+    display: flex;
+    margin: 0 auto;
+    justify-content:space-around; 
+}
+.h1{
+    height: 4em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 25px;
+    color: red;
+}
+.img{
+    height: 400px;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.p1{
+    width: 900px;
+    color: green;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    align-items: center;
+    font-size: 30px;
+    text-indent: 2em;
+    margin-top: 35px;
+}
+.p2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 30px;
+    width: 900px;
+    color: goldenrod;
+}
+.divbox3{
+    line-height: 200px;
+    width: 1000px;
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    font-size: 40px;
+}

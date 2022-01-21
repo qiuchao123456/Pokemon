@@ -1,0 +1,149 @@
+.div0{
+    width: 100%;
+    position: relative;
+    float: left;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    border-bottom:1px solid #666;
+}
+
+.div1{
+    color:green;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+    font-size: 3em;
+    border-bottom:1px solid yellow;
+}
+
+.div2{
+    font-size: 2em;
+    color: rgb(252, 1, 1);
+    float: left;
+    position: relative;
+    margin: 20px 20px 20px 100px;
+}
+
+.div3{
+    position: relative;
+    float: left;
+    font-size: 1.1em;
+    font-style: italic;
+    color: rgb(252, 1, 1);
+}
+
+.div4{
+    margin: 0 auto;
+    width: 1100px;
+    border-bottom:1px solid #666;
+}
+
+.div5{
+    position: relative;
+    float: left;
+    font-size: 2em;
+    margin: 20px 0 20px 20px;
+}
+
+.div6{
+    margin: 10px 0 10px 10px;
+    font-size: 25px;
+    border-bottom:2px dashed yellow;
+    
+}
+
+.div7{
+    margin: 0 auto;
+    height: 100px;
+    width: 1100px;
+}
+
+.div8{
+    width: 550px;
+    height: 100px;
+    float: left;
+    position: relative;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 1.5em;
+}
+
+.div9{
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    height: 100px;
+    width: 550px;
+    float: left;
+    position: relative;
+    text-align: center;
+}
+
+.anniu{
+    font-size: 1.5em;
+    border: 3px solid rgb(10, 8, 8);
+}
+
+.clearfix{
+    clear: both;
+}
+.divbox1{
+    border:1px solid green;
+}
+.span{
+    font-weight:bold;
+}
+.img2{
+    margin-left: 60%;
+    bottom: 0;
+}
+.img3{
+    margin-left: 65%;
+    bottom: 0;
+}
+.img4{
+    float: right;
+    margin-top: 40px;
+}
+.img5{
+    float: right;
+    margin-top: 5px;
+}
+.btn1{
+    font-size: 25px;
+    border: 1px solid green;
+    width:400px;
+    color:#666;
+}
+.btn2{
+    font: 25px;
+    border: 1px solid green;
+}
+.btn3{
+    border: 1px solid green;
+    font-size: 25px;
+    color:#666;
+    margin-bottom: 10px;
+    margin-left: 530px;
+    margin-top: 10px;
+}
+.btn4{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.divbox3{
+    color: green;
+    font-size: 30px;
+}
+.divbox4{
+    color: green;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+}

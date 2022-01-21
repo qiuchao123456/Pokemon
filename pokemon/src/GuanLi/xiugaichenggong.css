@@ -1,0 +1,25 @@
+.div1{
+    float: left;
+    position: relative;
+    width: 1131px;
+    height: 790px;
+    background-color: rgb(211, 243, 232);
+    border: solid 3px black;
+}
+
+.div2{
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.div3{
+    text-align: center;
+    color: rgb(196, 40, 40);
+    font-size: 3em;
+}
+
+.clearfix{
+    clear: both;
+}

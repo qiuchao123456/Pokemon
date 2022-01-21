@@ -1,0 +1,58 @@
+.div1{
+    float: left;
+    position: relative;
+    height: 300px;
+    width: 100%;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table{
+    width:300px;
+    height:150px;
+    color:#b9365d;
+    border-style: dotted;
+    border-color: rgb(250, 7, 7);
+}
+
+.div3{
+    margin: -1px 0px;
+    width: 480px;
+    height: 220px;
+}
+
+.div5{
+    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main{
+    float: left;
+    width: 150px;
+    height: 50px;
+    border: 2px solid greenyellow;
+    font-size: 40px;
+    position: relative;
+}
+.h1{
+    color: green;
+    width:140px;
+    margin: 0 auto;
+    font-size: 20px;
+}
+.p1{
+    color: green;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.span1{
+    font-size: 25px;
+    margin-left: 75%;
+}

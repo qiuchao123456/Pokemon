@@ -1,0 +1,41 @@
+.div1{
+    float: left;
+    position: relative;
+    width: 100%;
+}
+
+.div2{
+    width: 100%;
+    position: relative;
+    font-size: 20px;
+    color: green;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.div3{
+    height: 290px;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+    display: flex;
+    align-items: center;
+}
+.div4{
+    color: green;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    margin-left: 53%;
+}
+.p1{
+    color:green;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

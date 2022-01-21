@@ -1,0 +1,90 @@
+.div0{
+width: 100%;
+}
+
+.div1{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    background-color: rgb(200, 240, 181);
+    font-size: 3em;
+}
+
+.div2{
+    display: flex;
+    align-items: center;
+    height: 100px;
+    font-size: 1.5em;
+    font-style: italic;
+    color: rgb(255, 0, 0);
+}
+
+.div3{
+    font-size: 2em;
+}
+
+.box{
+    margin: 0 auto;
+    width: 800px;
+    height: 700px;
+}
+
+.div4{
+    position: relative;
+    float: left;
+    height: 40px;
+    width: 350px;
+    border: 2px solid #999;
+}
+
+.zi{
+    position: relative;
+    float: left;
+}
+
+.div5{
+    height: 80px;
+}
+
+.div6{
+    position: relative;
+    float: left;
+    height: 300px;
+    width: 350px;
+    border: 3px solid #999;
+}
+
+
+.clearfix{
+    clear: both;
+}
+
+.div7{
+    float: left;
+    position: relative;
+    margin: 10px 0 0 320px ;
+    color: rgb(245, 12, 12);
+    width: 130px;
+    height: 50px;
+    border: 3px solid rgb(12, 3, 3);
+    background-color: #e9ecf1;
+    font-size: 25px;
+}
+
+.div8{
+    float: right;
+    color: rgb(255, 0, 0); 
+    font-size: 2em;
+    margin: 0 auto;
+}
+
+.div10{
+    position: absolute;
+    float: right;
+    width: 350px;
+    height: 470px;
+    background-image: url("./lianxi.jpg");
+    background-color:  rgb(245, 239, 230);
+    margin: 0 0 0 450px;
+}

@@ -1,0 +1,48 @@
+.div1{
+    float: left;
+    position: relative;
+    width: 1131px;
+    height: 790px;
+    background-color: rgb(211, 243, 232);
+    border: solid 3px black;
+}
+
+.div2{
+    height: 396.5px;
+}
+
+.div3{
+    font-size: 3em;
+    text-align: center;
+    color: rgb(150, 108, 52);
+}
+
+.div4{
+    float: left;
+    position: relative;
+    width: 210px;
+    font-size: 1.5em;
+    text-align: center;
+    margin: 15px 0 15px 180px;
+}
+
+.div5{
+    float: left;
+    position: relative;
+    border:solid 1px;
+    height: 30px;
+    margin: 15px 0 15px 0;
+}
+
+.div6{
+    float: left;
+    position: relative;
+    height: 30px;
+    font-size: 1em;
+    color: rgb(250, 0, 0);
+    margin: 15px 0 0 50px;
+    border: solid 1px rgb(5, 5, 5);
+}
+.clearfix{
+    clear: both;
+}

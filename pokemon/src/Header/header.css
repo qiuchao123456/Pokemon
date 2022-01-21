@@ -1,0 +1,50 @@
+.header{
+    height:10em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imglogobox{
+    float:left;
+    height: 9em;
+    width: 284px;
+    margin-top: 22px;
+}
+li{
+    list-style:none;
+    float: left;
+    justify-content: center;
+    align-items: center;
+}
+.ulbox{
+    font-size: 25px;
+    align-items: center;
+    float: left;
+    margin-top: 47px;
+}
+*{
+    margin: 3px;
+    padding: 0px;
+}
+.ulbox a{
+    text-decoration: none;
+    color: black；
+}
+.headbox{
+    width: 130px;
+    height: 45px;
+    line-height:67px;
+    text-align: left;
+    display: block;
+}
+.menu{
+    width: 130px;
+    height: 125px;
+    padding-top: 1px;
+    display: none;
+}
+.headbox:hover + .menu, .menu:hover{
+    position:absolute;
+    z-index:10;
+    display: block;
+}
